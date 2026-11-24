@@ -49,6 +49,7 @@ echo ===================================================
 echo                 SUCCESS! CREATED FILES:
 echo ===================================================
 echo  [+] %name%16.png   (16x16)
+echo  [+] %name%32.png   (32x32)
 echo  [+] %name%48.png   (48x48)
 echo  [+] %name%64.png   (64x64)
 echo  [+] %name%128.png  (128x128)
